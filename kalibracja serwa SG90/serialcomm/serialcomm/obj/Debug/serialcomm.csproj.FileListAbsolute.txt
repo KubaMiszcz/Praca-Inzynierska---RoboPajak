@@ -1,0 +1,28 @@
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\bin\Debug\serialcomm.exe.config
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\bin\Debug\serialcomm.exe
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\bin\Debug\serialcomm.pdb
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.csprojResolveAssemblyReference.cache
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.Form1.resources
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.Properties.Resources.resources
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.csproj.GenerateResource.Cache
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.exe
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.pdb
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.Properties.aStrings.resources
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\bin\Debug\en-US\serialcomm.resources.dll
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.Form1.en-US.resources
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\serialcomm.Properties.aStrings.en-US.resources
+D:\Desktop\Dropbox\=Wynalazki Kuby Miszcza\c#arduino\serialcomm\serialcomm\obj\Debug\en-US\serialcomm.resources.dll
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Debug\serialcomm.exe.config
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.exe
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.pdb
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Debug\serialcomm.exe
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Debug\serialcomm.pdb
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Debug\en-US\serialcomm.resources.dll
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.csprojResolveAssemblyReference.cache
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.Form1.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.Properties.Resources.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.Properties.aStrings.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.Form1.en-US.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.Properties.aStrings.en-US.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\serialcomm.csproj.GenerateResource.Cache
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Debug\en-US\serialcomm.resources.dll

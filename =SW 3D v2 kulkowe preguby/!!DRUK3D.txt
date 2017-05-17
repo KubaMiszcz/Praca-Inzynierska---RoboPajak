@@ -1,0 +1,29 @@
+rurki lacznikowe moga zostac minuta dluzje i ok 0.1cm3 wiecej na calej czesci
+
+ale infill daj 0% a jakby sie kopula zapadla do druknij ja osobno i warstwy top/bottom na 0 odpowiednio
+
+albo kolumne wydrazoona zeby podparla ta kopulke przy drukowaniu
+
+
+
+
+czapki drukuj normalnie tylko infill 20% !!!NIE JAKO SKORUPA
+
+
+support dawaj pillars
+
+
+filamentu 80%
+
+i 2 warstwy wszedzie bpottom perimeter
+gora zawsze 3 bo przy okraglych pierwza wisi druga w maire ale za malo a 3 siedzi jak tzreba
+a pryz dziwnych to nawet 4
+
+
+===========
+zaokragl jednak to pohlebienia na serwo 
+pogleb cale o 0.5mm
+a te wsytajace o tez 0.5mm
+daj 4 wastwy TOP
+
+

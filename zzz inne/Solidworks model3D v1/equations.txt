@@ -1,0 +1,5 @@
+﻿"D1@Boss-Extrude1 dlugosc calkowita" = "dlugosc S3"
+"dlugosc S3" = 100
+"dlugosc S4"= 150
+"dlugosc S1"= 1
+"dlugosc S2"= 50

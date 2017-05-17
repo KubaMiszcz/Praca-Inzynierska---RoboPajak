@@ -1,0 +1,13 @@
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Release\serialcomm.exe.config
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Release\serialcomm.exe
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Release\serialcomm.pdb
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\bin\Release\en-US\serialcomm.resources.dll
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.Form1.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.Properties.Resources.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.Properties.aStrings.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.Form1.en-US.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.Properties.aStrings.en-US.resources
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.csproj.GenerateResource.Cache
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\en-US\serialcomm.resources.dll
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.exe
+D:\Desktop\Dropbox\--==KUBA==--\=Studia AiR\Praca Inzynierska - RoboPajak\kalibracja serwa SG90\serialcomm\serialcomm\obj\Release\serialcomm.pdb

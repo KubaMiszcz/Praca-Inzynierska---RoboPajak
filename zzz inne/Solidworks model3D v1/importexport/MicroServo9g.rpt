@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - Raport stanu procesora IGES
+*****************************************************************
+=================================================================
+Informacje ogólne
+=================================================================
+Wysy³anie ID produktu systemowego  : MicroServo9g
+Otrzymywanie ID produktu systemowego  : 
+Nazwa pliku                    : MicroServo9g
+Wysy³anie systemu               : unknown
+Wersja preprocesora         : unknown
+Data utworzenia pliku           : 20130804.134123
+Data utworzenia modelu           : 
+Jednostki                        : CM
+Skala przestrzeni modelu            : 1
+Autor                       : unknown
+Organizacja                 : unknown
+
+
+=================================================================
+Informacje przetwarzania elementu
+=================================================================
+
+
+=================================================================
+Analiza dok³adnoœci pliku IGES:
+=================================================================
+  Najbardziej rozpowszechniona liczba znacz¹cych cyfr:               3
+  Najwy¿sza liczba znacz¹cych cyfr:                      3
+  Œrednia liczba znacz¹cych cyfr:                 2.6747
+  Maksymalna odleg³oœæ od pocz¹tku uk³adu wspó³rzêdnych:                          1.75704
+  Minimalna odleg³oœæ od pocz¹tku uk³adu wspó³rzêdnych:                          1.17593
+  Efektywna liczba znacz¹cych cyfr:              2.29696
+
+
+=================================================================
+Podsumowanie elementu
+=================================================================
+-----------------------------------------------------------------
+Wpisz nazwê                                         Liczba konwertowanych
+---- ----                                         ----- ---------
+124  Transformation matrix                            1         1
+126  Rational B-spline curve                        305       305
+128  Rational B-spline surface                      135       135
+186  Manifold Solid B-rep Object                      4         4
+308  Subfigure definition                             1         1
+406  Property                                         3         3
+408  Singular subfigure instance                      1         1
+502  Vertex list                                      4         4
+504  Edge entity                                      4         4
+508  Loop entity                                    165       165
+510  Face entity                                    135       135
+514  Shell entity                                     4         4
+_________________________________________________________________
+
+
+=================================================================
+Podsumowanie wyników
+=================================================================
+Typ operacji SolidWorks                 Policz
+-----------------------                -----
+Operacje bry³owe                       4
+Operacje powierzchniowe                     0
+Operacje krzywej/szkicu                0
+--------------------------------------------
+Czas rozpoczêcia: wtorek, grudzieñ 20, 2016 07:01:22
+Czas zakoñczenia: wtorek, grudzieñ 20, 2016 07:01:30
+Czas przetwarzania: 0 days, 00 hours, 00 mins, 08 secs

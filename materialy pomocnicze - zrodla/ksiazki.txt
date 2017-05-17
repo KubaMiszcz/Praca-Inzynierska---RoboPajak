@@ -1,0 +1,22 @@
+No to tak. Po reprapowemu: 
+Sterownik - Teensylu, Sunbeam i wszystko oparte o procek at90usb, bo reszta to szmelc 
+Firmware - Marlin, tam tylko dajesz odpowiednie parametry odpowiadaj¹ce za d³ugoœæ ramion i wio 
+Software - Pronterface, dzia³a nic nie trzeba kombinowaæ 
+Mechanika, no to tu jest ró¿nie. Polecam rzuciæ okiem na: RostockMax od SeeMeCNC, Kossel, Rostock Mini. I siê zastanowiæ, czy warto wywarzaæ drzwi na oœcie¿ prowadnicami hiwina, bo to nie tu jest trudnoœæ z kinematyk¹ typu delta - sam zajmujê siê tym od zesz³ego roku -> mój kana³ youtube. 
+
+Albo po CNCowemu: 
+Sterownik dowolny krokowy 
+LinuxCNC z kinematyk¹ typu Delta 
+2regulatory PID, grza³ki itp. 
+
+Oba te warianty ró¿ni¹ siê niewiele, a oba wymagaj¹ wiedzy. 
+
+Z tymi kinematykami jest trudnoœæ polegaj¹ca na pogodzeniu dynamiki z efektem wahad³a. Polecam pracê doktorsk¹: 
+Cytat:
+ZASTOSOWANIE PODEJŒCIA MECHATRONICZNEGO W 
+PROJEKTOWANIU ROBOTÓW RÓWNOLEG£YCH 
+mgr in¿. Grzegorz Karpiel 
+
+Tam jest trochê o kinematyce odwrotnej i nawet przystêpnie.
+
++funny feel chocia¿by 3novatica, w³aœciciel prowadzi³ forum o drukarkach 3d. Goœæ wie co robi. A jak za drogo to najlepiej z³o¿yæ samodzielnie, nie jest to trudne a nabyte doœwiadczenie pomo¿e w przysz³ych naprawach. Ze swojej strony polecam CoreXY 3D opracowany przez Polaka z ekstruderem Lama3D te¿ polskiej myœli technicznej :D?

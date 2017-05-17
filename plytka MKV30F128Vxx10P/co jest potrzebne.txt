@@ -1,0 +1,74 @@
+dzien dobry
+zrobilem projekt tej plytki (wersja minimum czyli tylko to co potrzebne) dla ukladu w wersji VLF czyli obudowa 48LQFP, ten drugi VFM(32QFN) ciezko by bylo recznie przylutowac, 
+tylko mam pytanie czy mam ja rowniez sam wykonac? bo jesli nie, tylko ma profesor mozliwosc zrobic to na jakiejs maszynie to mozna tam troche posciskac elementy/sciezki itp ale to bym musial znac te ograniczenia, tak jak jest teraz powinienem dac rade recznie, 
+
+plytka zrobilem bez wiercenia, sciezki 'bottom' to mostki z Kynaru, zlacza tez sa SMD ale nie moglem znalezc w EAGLE to dalem zwykle, ale raster sie zgadza 
+
+w razie gdyby cos trza bylo poprawic na schemacie, to niech profesor gdzies zanotuje/zaznaczy co i jak
+
+nie moglem znalezc zadnych konkretnych wartosci kondenstorow, rezystora do resetu itp to zrobilem troche wg "KV30P64M100SFA Data Sheet Technical Data pkt 5.2 Recommended connection for unused analog and digital pins" a reszte tak jak dla AVRow
+
+wymiary plytki w plikach, przy innych zlaczach, wywaleniu resetu (zamianie na mniejszy przycisk) mozna by pare mm zyskac, tak samo zamiast przycisku reset, ale nie wiem czy jest sens 
+
+do testow rozrysowalem sobie taka gdzie zostawilem jeszcze UART, SPI, 5xPWM, I2C (tego nei uzywalem nigdy jeszcze, z tego co wyczytalem jest wolniejsze niz SPI ale wystarczaja dwa kabelki -> mniejsze zlacze -> wezsza plytka)
+
+z ADC okazalo sie ze mimo ze sa 2 to obsluguja duzo pinow "single end" czyli ze moga mierzyc napiecie ale wzgledem GND, to mi wystarczy wiec jakby cos to mozna sprobowac sterowac tymi serwami za pomoca tego KV3, ale to pozniej zrobie jakies testy czy gra warta swieczki
+
+sterownik tego serwa SG90 jaki jest tam teraz to AA51880
+https://www.dropbox.com/s/2sz8hqlq0mps8p5/servo%20controller%20AA51880.pdf?dl=0
+i nie wysyla on zadnych danych o polozeniu aktualnym z powrotem do uP, to co odczytywalem to chyba polozenie ktore mu zadalem, ale sprawdze to
+tak samo z tym pradem jaki on moze wyslac z powrotem do uP
+
+sciagnalem i przejrzalem sobie reference guide do procesora i SDK, ogarnalem chyba to srodowisko ale tak na sucho to ciezko mi cokolwiek powiedziec
+bo nie programowalem nigdy ARM, to Kinetis Motor Suite jest platne, i chyba trzeba miec jakis uklad podlaczony zeby jakis silnik-obiekt rozpoznawac
+
+kiedy profesor bedzie na PRz? ja jutro moge byc ale ok 19:30, moge byc tez wczesniej (na 1800 mam jakis kurs c#, trwa 1.5h
+jak nie to jakis inny dzien, nawet wtorek/sroda to moze zdaze jakis model 3D zrobic tej nogi 
+
+rysunki i pliki w zalaczeniu
+xxxxxxxxxxxxxxxxx
+
+
+PRIMARY:
+-zasilanie - jakie?
+-4x PWM na kazde serwo (niby teraz 3 ale beda 4)
+-ISP - do programowania i podlaczania sie do mastera
+-I2C
+-reset, +przycisk?
+-JTAG
+
+-2x ADC do serwa2 i serwa 3 (1 i 4 zostana jak sa) chy ba ze sie jednak przeobi w nich sterowniki
+-UART
+-Aref/Vref
+-jakas diodka ze uklad dziala
+-dzirki do montazu M3
+
+-zabezpieczenie procka przed duzym pradem?
+
+
+ELEMENTY:
+procek
+goldpiny ile i gdzie
+1x do VCCkondenstar filtrujace 100nF
+? wiecej kondensatorow do aref itp?
+? rezystor do resetu
+? przycisk do resru
+dioda smd red
+? druga dioda?
+
+PYTANIA:
+
+
+secondary
+-w przyszlosci pomair pradu czy serwo nei zablokowane, 
+	ala enie pomiar dokladny jakis tylko np cyz prad 
+	nie jest 10x wiekszy, albo zmierzyc prad przy zablokowaniu i na taki usatwic alarm
+	mozna by:
+		rezystor duzy rownolegle do uzwoenia silnika i ten rezystro na baze tranzystora
+		jak klucza, po otwarciu Vce = Vcc i to do PinInput
+
+
+
+
+
+
